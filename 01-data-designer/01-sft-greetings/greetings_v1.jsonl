@@ -1,0 +1,20 @@
+{"messages": [{"role": "user", "content": "Write a formal greeting in English for starting an email."}, {"role": "assistant", "content": "Dear Mr. Smith,"}]}
+{"messages": [{"role": "user", "content": "Write a formal greeting in Italian for greeting a teacher."}, {"role": "assistant", "content": "Buongiorno professore."}]}
+{"messages": [{"role": "user", "content": "Write a casual greeting in Italian for welcoming a guest."}, {"role": "assistant", "content": "Ciao!"}]}
+{"messages": [{"role": "user", "content": "Write a formal greeting in Kannada for texting a friend."}, {"role": "assistant", "content": "ಹೇಲೋ"}]}
+{"messages": [{"role": "user", "content": "Write a casual greeting in Spanish for starting an email."}, {"role": "assistant", "content": "Hola,"}]}
+{"messages": [{"role": "user", "content": "Write a casual greeting in Italian for starting an email."}, {"role": "assistant", "content": "Ciao,"}]}
+{"messages": [{"role": "user", "content": "Write a formal greeting in Hindi for greeting a teacher."}, {"role": "assistant", "content": "नमस्कार, गुरुजी।"}]}
+{"messages": [{"role": "user", "content": "Write a casual greeting in English for welcoming a guest."}, {"role": "assistant", "content": "Hey! Glad you could make it."}]}
+{"messages": [{"role": "user", "content": "Write a casual greeting in Kannada for welcoming a guest."}, {"role": "assistant", "content": "ನಮಸ್ಕಾರ, ಮ Kannada graciously!"}]}
+{"messages": [{"role": "user", "content": "Write a casual greeting in German for meeting a new colleague."}, {"role": "assistant", "content": "Hallo!"}]}
+{"messages": [{"role": "user", "content": "Write a casual greeting in Kannada for meeting a new colleague."}, {"role": "assistant", "content": "ನಮಸ್ಕಾರ (Namaskāra)"}]}
+{"messages": [{"role": "user", "content": "Write a formal greeting in Hindi for answering the phone."}, {"role": "assistant", "content": "नमस्ते."}]}
+{"messages": [{"role": "user", "content": "Write a formal greeting in Kannada for meeting a new colleague."}, {"role": "assistant", "content": "ನಮಸ್ಕಾರ."}]}
+{"messages": [{"role": "user", "content": "Write a formal greeting in French for answering the phone."}, {"role": "assistant", "content": "Allô"}]}
+{"messages": [{"role": "user", "content": "Write a casual greeting in French for greeting a teacher."}, {"role": "assistant", "content": "Bonjour !"}]}
+{"messages": [{"role": "user", "content": "Write a formal greeting in French for answering the phone."}, {"role": "assistant", "content": "Allô"}]}
+{"messages": [{"role": "user", "content": "Write a casual greeting in Hindi for texting a friend."}, {"role": "assistant", "content": "नहीं, मुझे भी पहले मेरा इडिया बंद कर देना चाहिए।"}]}
+{"messages": [{"role": "user", "content": "Write a casual greeting in Hindi for welcoming a guest."}, {"role": "assistant", "content": "नमस्ते"}]}
+{"messages": [{"role": "user", "content": "Write a formal greeting in Italian for texting a friend."}, {"role": "assistant", "content": "Ciao!"}]}
+{"messages": [{"role": "user", "content": "Write a formal greeting in Spanish for starting an email."}, {"role": "assistant", "content": "Estimado/a destinatario/a,"}]}

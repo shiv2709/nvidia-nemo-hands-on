@@ -1,0 +1,16 @@
+# Secrets: never commit API keys
+.env
+.secrets.env
+*.key
+
+# Generated outputs (large, reproducible by running the scripts)
+artifacts/
+results_*/
+hf_cache/
+adapters*/
+
+# Python and system clutter
+__pycache__/
+*.pyc
+*.bak
+.DS_Store
